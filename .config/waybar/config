@@ -19,7 +19,7 @@
         },
         "format": "{icon} {capacity}%",
         "format-charging": " {capacity}%",
-        "format-icons": ["", "", "", "", " "]
+        "format-icons": [" ", " ", " ", " ", " "]
     },
     "clock": {
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
