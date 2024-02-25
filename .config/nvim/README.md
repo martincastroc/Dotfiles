@@ -6,3 +6,4 @@ My NeoVim Config. Resources used for guidance and inspiration:
 
 ## TODO:
 1. Migrate away from lsp-zero.
+2. Refactor plugin setup to add configure each plugin in separate files for easier changes.
