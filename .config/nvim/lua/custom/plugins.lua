@@ -82,4 +82,9 @@ return {
             require('custom.configs.autopairs')
         end,
     },
+    {
+        "numToStr/Comment.nvim",
+        opts = {},
+        lazy = false,
+    },
 }
