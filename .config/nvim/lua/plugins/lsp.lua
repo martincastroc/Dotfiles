@@ -1,3 +1,4 @@
+-- TODO: Migrate away from lsp-zero 
 local lsp = require('lsp-zero').preset({})
 
 lsp.ensure_installed({'tsserver','pyright','lua_ls'})
