@@ -76,12 +76,6 @@ return {
 			require('custom.configs.lsp')
 		end,
 	},
-    { -- Automatically complete differet parenthesis and quotes, integreted with nvim-cmp
-        "windwp/nvim-autopairs",
-        config = function ()
-            require('custom.configs.autopairs')
-        end,
-    },
     {
         "numToStr/Comment.nvim",
         opts = {},
