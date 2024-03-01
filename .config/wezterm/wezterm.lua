@@ -14,5 +14,7 @@ config.font = wezterm.font {
     harfbuzz_features = {'calt=0','clig=0','liga=0'}
 }
 
+config.font_size = 13
+
 -- and finally, return the configuration to wezterm
 return config
